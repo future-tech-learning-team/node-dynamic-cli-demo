@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/future-tech-learning-team/node-dynamic-cli-demo/issues"
   },
-  "homepage": "https://github.com/future-tech-learning-team/node-dynamic-cli-demo#readme"
+  "homepage": "https://github.com/future-tech-learning-team/node-dynamic-cli-demo#readme",
+  "dependencies": {
+    "shiyj-node-command-line": "^1.0.17",
+    "shiyj-node-command-line-add": "^1.0.6"
+  }
 }
